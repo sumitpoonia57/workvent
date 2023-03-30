@@ -26,7 +26,7 @@ To run the project locally, follow these steps:<br />
 • Open the portal in your web browser: http://localhost:3000 <br />
 <hr />
 <h2>💯Deployment Link</h2>
-COMING SOON
+https://wokventt.onrender.com
 <hr />
 <details>
     <summary><h3>👨‍🏫Snapshots</h3></summary> <br>
